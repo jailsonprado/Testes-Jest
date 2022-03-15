@@ -52,7 +52,7 @@ import {
     
    });
 
-   it('should have methods to get name and idn', () => {
+   it('should have methods to get name and idn for enterprises', () => {
      // sut : System under test
      const sut = createEnterpriseCustomer('BrasBrasil', '11.111.11');
  
